@@ -1,0 +1,12 @@
+sudo: false
+
+language: node_js
+node_js:
+  - '0.10'
+  - '0.12'
+  - iojs
+
+script:
+  - npm test
+  - npm install -g .
+  - clean-repos-dir -e 0

@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+'use strict';
+var command = require('../lib/command');
+
+var program = command.parser.parse(process.argv);
+command.execute(program.depth, program.elapsed);
