@@ -1,6 +1,10 @@
 clean-repos-dir
 ---------------
 
+[![Build Status](https://travis-ci.org/pine613/clean-repos-dir.svg?branch=master)](https://travis-ci.org/pine613/clean-repos-dir)
+[![Dependency Status](https://david-dm.org/pine613/clean-repos-dir.svg)](https://david-dm.org/pine613/clean-repos-dir)
+[![devDependency Status](https://david-dm.org/pine613/clean-repos-dir/dev-status.svg)](https://david-dm.org/pine613/clean-repos-dir#info=devDependencies)
+
 This is a private tool that is able to keep clean state  my repositories directory.
 
 ## Install
