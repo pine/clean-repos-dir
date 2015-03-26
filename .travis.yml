@@ -9,4 +9,5 @@ node_js:
 script:
   - npm test
   - npm install -g .
+  - clean-repos-dir
   - clean-repos-dir -e 0
