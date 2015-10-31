@@ -13,3 +13,7 @@ script:
   - npm install -g .
   - clean-repos-dir
   - clean-repos-dir -e 0
+
+notifications:
+  slack:
+    - secure: "GmZU0Ks0PRySjHG4trsN31kPfA7YAsY4YvxuSLN2T5wvidMKaBPHRnBhMNTdT5o1IqarkH1VI0J4+Mp2NOnkDz1D4WKmjtJjGZ4Bq6ajHn3fbwukJ2ZyCj3/lEg8LAe5WdJeWWGv/OjiAGLD7YIcJDcNcQtRWq0jyz7D72188/Y="
