@@ -19,7 +19,8 @@
   },
   "devDependencies": {
     "gulp": "^3.8.11",
-    "gulp-jshint": "^1.9.4",
+    "gulp-jshint": "^2.0.0",
+    "jshint": "^2.8.0",
     "jshint-stylish": "^2.0.1"
   }
 }
