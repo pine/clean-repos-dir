@@ -37,5 +37,4 @@ Searching: depth = 3
 ```
 
 ## License
-MIT License<br />
-Copyright (c) 2015 Pine Mizune
+MIT License
