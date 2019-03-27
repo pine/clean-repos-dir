@@ -3,7 +3,7 @@ clean-repos-dir
 
 [![Build Status](https://travis-ci.org/pine/clean-repos-dir.svg?branch=master)](https://travis-ci.org/pine/clean-repos-dir)
 [![Dependency Status](https://david-dm.org/pine/clean-repos-dir.svg)](https://david-dm.org/pine/clean-repos-dir)
-[![devDependency Status](https://david-dm.org/pine/clean-repos-dir/dev-status.svg)](https://david-dm.org/pine/clean-repos-dir#info=devDependencies)
+[![devDependency Status](https://david-dm.org/pine/clean-repos-dir/dev-status.svg)](https://david-dm.org/pine/clean-repos-dir#info=devDependencies) [![Greenkeeper badge](https://badges.greenkeeper.io/pine/clean-repos-dir.svg)](https://greenkeeper.io/)
 
 This is a private tool that is able to keep clean state  my repositories directory.
 
