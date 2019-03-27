@@ -11,14 +11,14 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "async": "^1.4.2",
+    "async": "^2.6.2",
     "commander": ">=2.7.1",
     "glob-all": "^3.0.1",
     "lodash": ">=3.6.0",
     "rimraf": ">=2.3.2"
   },
   "devDependencies": {
-    "gulp": "^3.8.11",
+    "gulp": "^4.0.0",
     "gulp-jshint": "^2.0.0",
     "jshint": "^2.8.0",
     "jshint-stylish": "^2.0.1"
